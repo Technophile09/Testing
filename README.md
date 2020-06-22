@@ -1,4 +1,2 @@
 # Testings
 
-## Subheader
- sample
